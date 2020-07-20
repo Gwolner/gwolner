@@ -1,10 +1,11 @@
-### Olá, seja bem vind@ ao meu portfólio! 👋😄
+### Olá! 
+### Seja bem vind@ ao meu portfólio! 👋😄
 
 > Aqui você pode conhecer um pouco mais sobre mim.
 
+<img src="img/bar.png" alt="Barra horizontal"/>
 
-
-- 🕵🏻‍♂️ <b> Atualmente estou em busca de um estágio como Desenvolvedor Web.</b> 
+`Atualmente estou em busca de um estágio como Desenvolvedor Web.` 
 
 - 📚 Estou cursando [Análise e Desenvolvimento de Sistemas](https://www.ifpe.edu.br/campus/recife/cursos/superiores/tecnologos/analise-e-desenvolvimento-de-sistemas) no IFPE.
 
