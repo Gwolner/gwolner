@@ -1,6 +1,6 @@
-### Seja bem vind@ ao meu portfólio! 👋😄
+### Bem vind@ ao meu portfólio!
 
-> Neste espaço você pode conhecer um pouco mais sobre mim e meus projetos.
+> Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades.
 
 ![ ](https://raw.githubusercontent.com/Gwolner/gwolner/master/img/bar.png)
 
@@ -12,10 +12,10 @@
 
 - 👨🏻‍💻 Estagiei por 2 anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial) no Departamento de Gestão de TI, dentro do IFPE.
 
-- 🔬 Atuei como aluno pesquisador em um [projeto de acessibilidade](https://github.com/Gwolner/pibex-hello-moodle) por navegação web através da voz.
+- 🔬 Atuei como pesquisador em um projeto de acessibilidade por [navegação web através da voz](https://github.com/Gwolner/pibex-hello-moodle).
 
-- 🎯 Fui estagiário na [Embratel](https://www.embratel.com.br), sendo efetivado como técnico após término do contrato.
+- 🎯 Fui estagiário na [Embratel](https://www.embratel.com.br), sendo efetivado como técnico após término do estágio.
 
-- 🍁 Gosto de aperfeiçoar minahs habilidades e conhecimento de Web com as linguagens HTML5, CSS3, JS, Java e PHP.
+- 🌱 Estou aprendendo novas tecnologias Web: TS, Node, React, React Native e WordPress.
 
-- 🌱 Estou aprendendo novas tecnologias Web: Typescript, NodeJS, React, React Native e WordPress.
+- 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento de Web com as linguagens HTML5, CSS3, JS, Java e PHP.
