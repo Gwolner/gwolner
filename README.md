@@ -1,9 +1,8 @@
-### Olá! 
 ### Seja bem vind@ ao meu portfólio! 👋😄
 
 > Aqui você pode conhecer um pouco mais sobre mim.
 
-<img src="img/bar.png" alt="Barra horizontal" width="200"/>
+![ ](https://raw.githubusercontent.com/Gwolner/gwolner/master/img/bar.png)
 
 `Atualmente estou em busca de um estágio como Desenvolvedor Web.` 
 
