@@ -3,7 +3,7 @@
 
 > Aqui você pode conhecer um pouco mais sobre mim.
 
-<img src="img/bar.png" alt="Barra horizontal"/>
+<img src="img/bar.png" alt="Barra horizontal" width="500"/>
 
 `Atualmente estou em busca de um estágio como Desenvolvedor Web.` 
 
