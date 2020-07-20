@@ -1,4 +1,4 @@
-### Bem vind@ ao meu portfólio!
+## Bem vind@ ao meu portfólio!
 
 > Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades.
 
@@ -18,4 +18,5 @@
 
 - 🌱 Estou aprendendo novas tecnologias Web: TS, Node, React, React Native e WordPress.
 
-- 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento de Web com as linguagens HTML5, CSS3, JS, Java e PHP.
+- 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento em HTML5, CSS3, JS, Java e PHP.
+
