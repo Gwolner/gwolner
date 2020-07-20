@@ -1,8 +1,9 @@
-## Bem vind@ ao meu portfólio!
+# Bem vind@ ao meu portfólio!
 
 > Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades.
 
-![ ](https://raw.githubusercontent.com/Gwolner/gwolner/master/img/bar.png)
+<br> ![ ](https://raw.githubusercontent.com/Gwolner/gwolner/master/img/bar.png) <br>
+
 
 - 🕵🏻‍♂️ Atualmente estou em busca de um estágio como Desenvolvedor Web.
 
