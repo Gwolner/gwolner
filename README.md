@@ -2,7 +2,7 @@
 
 > Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades.
 
-![ ](https://raw.githubusercontent.com/Gwolner/gwolner/master/img/bar.png)
+<!-- ![ ](https://raw.githubusercontent.com/Gwolner/gwolner/master/img/bar.png) -->
 
 - 🕵🏻‍♂️ Atualmente estou em busca de um estágio como Desenvolvedor Web.
 
