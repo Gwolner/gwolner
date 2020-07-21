@@ -1,6 +1,6 @@
 ## Bem vind@ ao meu portfólio!
 
-> Neste espaço você pode conhecer um pouco mais sobre mim, <br>minhas experiências, projetos e habilidades de Web Developer.
+> Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades de Web Developer.
 
 <!-- ![ ](https://raw.githubusercontent.com/Gwolner/gwolner/master/img/bar.png) -->
 
