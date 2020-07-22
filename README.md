@@ -2,8 +2,6 @@
 
 > Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades de Web Developer.
 
-<!-- ![ ](https://raw.githubusercontent.com/Gwolner/gwolner/master/img/bar.png) -->
-
 - 🕵🏻‍♂️ Atualmente estou em busca de um estágio como Desenvolvedor Web (Front, Back ou Full).
 
 - 📚 Estou cursando [Análise e Desenvolvimento de Sistemas](https://www.ifpe.edu.br/campus/recife/cursos/superiores/tecnologos/analise-e-desenvolvimento-de-sistemas) no IFPE.
@@ -19,3 +17,6 @@
 - 🌱 Estou aprendendo novas tecnologias Web: TS, Node, React, React Native e WordPress.
 
 - 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento em HTML5, CSS3, JS, Java e PHP.
+
+<!-- ![ ](https://raw.githubusercontent.com/Gwolner/gwolner/master/img/myicon.png) -->
+[<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/black2.PNG" alt="Logo Linkedin" align="right" width="60" height="60" />](https://www.linkedin.com/in/guilherme-wolner/)
