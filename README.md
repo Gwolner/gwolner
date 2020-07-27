@@ -14,7 +14,7 @@
 
 - 🎯 Fui estagiário na [Embratel](https://www.embratel.com.br), sendo efetivado como técnico após término do estágio.
 
-- 🌱 Estou aprendendo novas tecnologias Web: TS, Node, React, React Native e WordPress.
+- 🌱 Estou aprendendo novas tecnologias Web: Node, React, TS, React Native e WordPress.
 
 - 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento em HTML5, CSS3, JS, Java e PHP.
 
