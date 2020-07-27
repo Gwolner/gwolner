@@ -1,4 +1,6 @@
-## Bem vind@ ao meu portfólio!
+## Bem vind@ ao meu portfólio!📖
+
+[<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/linkedin.png" alt="Logo Linkedin"/>](https://www.linkedin.com/in/guilherme-wolner/)
 
 > Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades de Web Developer.
 
@@ -6,10 +8,7 @@
 - 📚 Estou cursando [Análise e Desenvolvimento de Sistemas](https://www.ifpe.edu.br/campus/recife/cursos/superiores/tecnologos/analise-e-desenvolvimento-de-sistemas) no IFPE.
 - 🎓 Sou formado nos técnicos de Telecomunicações ([IFPE](https://www.ifpe.edu.br/campus/recife/cursos/tecnicos/subsequente/telecomunicacoes)) e Manutenção e Suporte em Informática ([ETEPAM](http://www.etepam.pe.gov.br/cursos/presencial/manutencao-e-suporte-em-informatica)).
 - 👨🏻‍💻 Estagiei por 2 anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial) no Departamento de Gestão de TI, dentro do IFPE.
-- 🔬 Atuei como pesquisador em um projeto de acessibilidade por [navegação web através da voz](https://github.com/Gwolner/pibex-hello-moodle).
-- 🎯 Fui estagiário na [Embratel](https://www.embratel.com.br), sendo efetivado como técnico após término do estágio.
+- 🔬 Atuei como pesquisador em um projeto de acessibilidade por [navegação web através da voz](https://github.com/Gwolner/pibex-hello-moodle) utilizando JS.
+- 🎯 Fui estagiário por um ano na [Embratel](https://www.embratel.com.br), sendo efetivado como técnico logo em seguida.
 - 🌱 Estou aprendendo novas tecnologias Web: Node, React, TS, React Native e WordPress.
 - 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento em HTML5, CSS3, JS, Java e PHP.
-
-<!-- ![ ](https://raw.githubusercontent.com/Gwolner/gwolner/master/img/myicon.png) -->
-[<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/black2.PNG" alt="Logo Linkedin" align="right" width="60" height="60" />](https://www.linkedin.com/in/guilherme-wolner/)
