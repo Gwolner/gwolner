@@ -1,8 +1,8 @@
-## Bem vind@ ao meu portfólio!📖
-
 [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/linkedin.png" alt="Logo Linkedin"/>](https://www.linkedin.com/in/guilherme-wolner/)
 
-> Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades de Web Developer.
+### Bem vind@ ao meu portfólio!📖
+
+**Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades de Web Developer.**
 
 - 🕵🏻‍♂️ Atualmente estou em busca de um estágio como Desenvolvedor Web (Front, Back ou Full).
 - 📚 Estou cursando [Análise e Desenvolvimento de Sistemas](https://www.ifpe.edu.br/campus/recife/cursos/superiores/tecnologos/analise-e-desenvolvimento-de-sistemas) no IFPE.
