@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/linkedin.png" alt="Logo Linkedin"/>](https://www.linkedin.com/in/guilherme-wolner/)
+[<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/linkedin.png" alt="Logo Linkedin" target="_blank"/>](https://www.linkedin.com/in/guilherme-wolner/)
 
 ### Bem vind@ ao meu portfólio!📖
 
