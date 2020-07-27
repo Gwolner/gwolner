@@ -1,7 +1,7 @@
 [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/linkedin.png" alt="Logo Linkedin"/>](https://www.linkedin.com/in/guilherme-wolner/)
-&nbsp;&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/codepen.png" alt="Logo Codepen"/>](https://codepen.io/gwolner/pens/public)
-
+-->
 ## Bem vind@ ao meu portfólio!📖
 
 > **Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades como Web Developer.**
