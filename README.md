@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/linkedin.png" alt="Logo Linkedin" target="_blank"/>](https://www.linkedin.com/in/guilherme-wolner/)
 
-### Bem vind@ ao meu portfólio!📖
+## Bem vind@ ao meu portfólio!📖
 
 **Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades de Web Developer.**
 
@@ -12,3 +12,8 @@
 - 🎯 Fui estagiário por um ano na [Embratel](https://www.embratel.com.br), sendo efetivado como técnico logo em seguida.
 - 🌱 Estou aprendendo novas tecnologias Web: Node, React, TS, React Native e WordPress.
 - 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento em HTML5, CSS3, JS, Java e PHP.
+
+
+<a href="https://www.google.com.br/" target="_blank">
+<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/linkedin.png" alt="Logo Linkedin"/>
+</a>
