@@ -11,6 +11,6 @@
 - 🎓 Sou formado nos técnicos de Telecomunicações (IFPE) e Manutenção e Suporte em Informática (ETEPAM).
 - 👨🏻‍💻 Estagiei por 2 anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial) no Departamento de Gestão de TI, dentro do IFPE.
 - 🔬 Atuei como pesquisador em um projeto de acessibilidade por [navegação web através da voz](https://github.com/Gwolner/pibex-hello-moodle) utilizando JS e PHP.
-- 🎯 Fui estagiário por um ano na [Embratel](https://www.embratel.com.br) sendo, posteriormente, efetivado como técnico.
+- 🎯 Fui estagiário por um ano na Embratel sendo, posteriormente, efetivado como técnico.
 - 🌱 Estou aprendendo: Node, React, TS, React Native e WordPress.
 - 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento em HTML5, CSS3, JS, Java e PHP.
