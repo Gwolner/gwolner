@@ -5,8 +5,8 @@
 ## Bem vind@ ao meu portfólio!📖
 
 > **Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades como Web Developer.**
-<!--
-- 🕵🏻‍♂️ Atualmente estou em busca de um estágio como Desenvolvedor Web (Front, Back ou Full). -->
+
+- 🕵🏻‍♂️ Atualmente estou em busca de um estágio como Desenvolvedor Web (Front, Back ou Full).
 - 📚 Estou cursando Análise e Desenvolvimento de Sistemas no IFPE.
 - 🎓 Sou formado nos técnicos de Telecomunicações (IFPE) e Manutenção e Suporte em Informática (ETEPAM).
 - 👨🏻‍💻 Estagiei por 2 anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial) no Departamento de Gestão de TI, dentro do IFPE.
