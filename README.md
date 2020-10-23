@@ -7,10 +7,10 @@
 > **Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades como Web Developer.**
 
 <!-- 🕵🏻‍♂️ Atualmente estou em busca de um estágio como Desenvolvedor Web (Front, Back ou Full). -->
-- 📚 Estou cursando Análise e Desenvolvimento de Sistemas no IFPE.
+- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas no IFPE.
+- 👨🏻‍💻 Estagiei por 2 anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial) no IFPE.
+- 🔬 Atuei como aluno pesquisador em um [projeto de acessibilidade](https://github.com/Gwolner/pibex-hello-moodle).
+- 🌱 Estou aprendendo Java Web e Design patterns para o back e JSP e JSTL para o front.
+- 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento.
 - 🎓 Sou formado nos técnicos de Telecomunicações (IFPE) e Manutenção e Suporte em Informática (ETEPAM).
-- 👨🏻‍💻 Estagiei por 2 anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial) no Departamento de Gestão de TI, dentro do IFPE.
-- 🔬 Atuei como pesquisador em um projeto de acessibilidade por [navegação web através da voz](https://github.com/Gwolner/pibex-hello-moodle) utilizando JS e PHP.
-- 🎯 Fui estagiário por um ano na Embratel sendo, posteriormente, efetivado como técnico.
-- 🌱 Estou aprendendo: Node, React, TS, React Native e WordPress.
-- 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento em HTML5, CSS3, JS, Java e PHP.
+- 🎯 Fui estagiário de Telecom na Embratel e posteriormente efetivado como funcionário.
