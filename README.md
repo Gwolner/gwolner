@@ -14,3 +14,7 @@
 - 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento.
 - 🎓 Sou formado nos técnicos de Telecomunicações (IFPE) e Manutenção e Suporte em Informática (ETEPAM).
 - 🎯 Fui estagiário de Telecom na Embratel e posteriormente efetivado como funcionário.
+
+<!-- [![gwolner's github stats](https://github-readme-stats.vercel.app/api?username=gwolner)](https://github.com/anuraghazra/github-readme-stats) -->
+ 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwolner&hide=TeX&layout=compact) -->
