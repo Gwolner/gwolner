@@ -10,7 +10,7 @@
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas no IFPE.
 - 👨🏻‍💻 Estagiei por 2 anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial) no IFPE.
 - 🔬 Atuei como aluno pesquisador em um [projeto de acessibilidade](https://github.com/Gwolner/pibex-hello-moodle).
-- 🌱 Estou aprendendo Java Web e Design patterns para o back e JSP e JSTL para o front.
+- 🌱 Estou aprendendo Java para web (back end).
 - 🍁 Busco sempre aperfeiçoar minhas habilidades e conhecimento.
 - 🎓 Sou formado nos técnicos de Telecomunicações (IFPE) e Manutenção e Suporte em Informática (ETEPAM).
 - 🎯 Fui estagiário de Telecom na Embratel e posteriormente efetivado como funcionário.
