@@ -1,8 +1,8 @@
-[<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/linkedin.png" alt="Logo Linkedin"/>](https://www.linkedin.com/in/guilherme-wolner/)
-[<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/youtube.png" alt="Logo Youtube"/>](https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos)
+<!-- [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/linkedin.png" alt="Logo Linkedin"/>](https://www.linkedin.com/in/guilherme-wolner/) -->
+<!-- [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/youtube.png" alt="Logo Youtube"/>](https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos) -->
 
-[![Linkedin: AlineBastos](https://img.shields.io/badge/-GuilhermeWolner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-wolner/)](https://www.linkedin.com/in/guilherme-wolner/)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos)](https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos)
+[![Linkedin: AlineBastos](https://img.shields.io/badge/-GuilhermeWolner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-wolner/)](https://www.linkedin.com/in/guilherme-wolner/)&nbsp;&nbsp;&nbsp;
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos)](https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos)&nbsp;&nbsp;&nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gwolner)
 
 <!-- &nbsp;&nbsp;&nbsp;
