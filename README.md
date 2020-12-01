@@ -1,7 +1,9 @@
 [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/linkedin.png" alt="Logo Linkedin"/>](https://www.linkedin.com/in/guilherme-wolner/)
 [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/youtube.png" alt="Logo Youtube"/>](https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos)
 
+[![Linkedin: AlineBastos](https://img.shields.io/badge/-GuilhermeWolner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-wolner/)](https://www.linkedin.com/in/guilherme-wolner/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos)](https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gwolner)
 
 <!-- &nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/codepen.png" alt="Logo Codepen"/>](https://codepen.io/gwolner/pens/public)
@@ -19,7 +21,7 @@
 - 🎓 Sou formado nos técnicos de Telecomunicações (IFPE) e Manutenção e Suporte em Informática (ETEPAM).
 - 🎯 Fui estagiário de Telecom na Embratel e posteriormente efetivado como funcionário.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gwolner)
+
 
 <!-- [![gwolner's github stats](https://github-readme-stats.vercel.app/api?username=gwolner)](https://github.com/anuraghazra/github-readme-stats) -->
  
