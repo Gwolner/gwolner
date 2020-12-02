@@ -17,7 +17,7 @@
 - 🍁 Estou aprendendo Java para web (back end).
 - 🌱 Busco sempre aperfeiçoar minhas habilidades e conhecimento.
 - 🎓 Sou formado nos técnicos de Telecomunicações (IFPE) e Manutenção e Suporte em Informática (ETEPAM).
-- 🎯 Fui estagiário de Telecom na Embratel e posteriormente efetivado como funcionário.
+- 🎯 Fui estagiário na Embratel e posteriormente efetivado como funcionário.
 
 [![Linkedin: AlineBastos](https://img.shields.io/badge/-GuilhermeWolner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-wolner/)](https://www.linkedin.com/in/guilherme-wolner/)&nbsp;&nbsp;
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos)](https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos)
