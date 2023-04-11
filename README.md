@@ -30,7 +30,7 @@
  <a href="https://www.linkedin.com/in/guilherme-wolner/" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-0273b3?logo=linkedin&logoColor=white&style=plastic" alt="Linkedin">
  </a>
- &nbsp;&nbsp;
+ &nbsp;
  <a href="https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos" target="_blank">
   <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=plastic" alt="Youtube">
  </a>
@@ -39,17 +39,13 @@
 <!-- &nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/codepen.png" alt="Logo Codepen"/>](https://codepen.io/gwolner/pens/public)
 -->
-
-## Tecnologias usadas
+<br/><br/>
 
 > Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já fiz uso em projetos anteriores
 
-Linguagem e estrutura
+<br/>
 
-<!-- ![Java](https://img.shields.io/badge/-Java-CC342D?style=flat-square&logo=coffeescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) -->
+- Linguagem e estrutura
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=plastic)
@@ -64,15 +60,6 @@ Linguagem e estrutura
 ![JSP](https://img.shields.io/badge/Java_Server_Pages-CC342D?logo=coffeescript&logoColor=white&style=plastic)
 ![JSF](https://img.shields.io/badge/Java_Server_Faces-CC342D?logo=coffeescript&logoColor=white&style=plastic)
 
-<!-- ![Java](https://img.shields.io/badge/Java-323330?logo=coffeescript&logoColor=CC342D)
-![HTML5](https://img.shields.io/badge/HTML5-323330?logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-323330?logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E) -->
-
-<!-- ![Java](https://img.shields.io/badge/Java-323330?logo=coffeescript&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-323330?logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-323330?logo=css3&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=FFFFFF) -->
 
 - Banco de dados
 
