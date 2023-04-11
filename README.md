@@ -1,38 +1,44 @@
-## Bem vind@ ao meu portfólio!👾 
+<div align="center">
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=35&pause=1000&color=6DB33F&repeat=true&width=435&height=60&lines=Bem+vind%40+ao+meu+portf%C3%B3lio!"/>
+ </a>
+</div>
 
 > **Neste espaço você pode conhecer um pouco mais sobre mim, minhas experiências, projetos e habilidades como desenvolvedor.**
 
-### Atualmente 
+<br/>
 
 - 👨🏻‍💻 TCC em andamento (**Java, MySQL, Git/Github e framework Spring Boot**).
 - 👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas no IFPE.
 - 👨🏻‍💻 Atuo como desenvolvedor CLT em back-end há mais de dois anos (**Java, JSF, JSP, Spring Boot, MySQL, Git/Gitlab, HTML, JS e CSS**).
 - 📚 Sigo aprendendo Java para web (back end) e framework Spring Boot.
-
-### Anteriormente
 - 👨‍🏫 Fui monitor da disciplina Linguagem de Programação Orientada a Objeto (**Java**).
 - 👨🏻‍💻 Estagiei no IFPE por dois anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial) (**PHP/Scriptcase, MySQL, HTML, JS, CSS**).
 - 🔬 Fui pesquisador em um [projeto de acessibilidade](https://github.com/Gwolner/pibex-hello-moodle) para web (**HTML, JS, Git/Github, CSS e PHP**).
 - 🎓 Formações técnicas em Telecomunicações pelo IFPE e em Suporte em Informática pela ETEPAM.
 - ☎️ Fui estagiário de Comutação Telefônica na Embratel por um ano, sendo posteriormente efetivado.
 
-<a href="https://www.linkedin.com/in/guilherme-wolner/" target="_blank">
- <img src="https://img.shields.io/badge/Linkedin-0273b3?logo=linkedin&logoColor=white&style=plastic" alt="Linkedin">
-</a>
 
-<a href="https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos" target="_blank">
- <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=plastic" alt="Youtube">
-</a>
+
+<div align="right">
+ <a href="https://www.linkedin.com/in/guilherme-wolner/" target="_blank">
+  <img src="https://img.shields.io/badge/Linkedin-0273b3?logo=linkedin&logoColor=white&style=plastic" alt="Linkedin">
+ </a>
+ &nbsp;&nbsp;&nbsp;
+ <a href="https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos" target="_blank">
+  <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=plastic" alt="Youtube">
+ </a>
+</div>
 
 <!-- &nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/codepen.png" alt="Logo Codepen"/>](https://codepen.io/gwolner/pens/public)
 -->
 
-### ⚡ Tecnologias usadas
+## Tecnologias usadas
 
-> Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já utilizei em projetos anteriores
+> Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já fiz uso em projetos anteriores
 
-- Linguagem e estrutura
+Linguagem e estrutura
 
 <!-- ![Java](https://img.shields.io/badge/-Java-CC342D?style=flat-square&logo=coffeescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -87,9 +93,9 @@
 - IDE
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=whitee&style=plastic)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 ![Apache Netbeans](https://img.shields.io/badge/Apache%20Netbeans-1B6AC6?logo=apachenetbeanside&logoColor=white&style=plastic)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-F15B2A?logo=sublime-text&logoColor=white&style=plastic)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white&style=plastic)
 
 - Outras ferramentas
