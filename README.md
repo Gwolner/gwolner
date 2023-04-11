@@ -18,13 +18,19 @@
 - 🎓 Formações técnicas em Telecomunicações pelo IFPE e em Suporte em Informática pela ETEPAM.
 - ☎️ Fui estagiário de Comutação Telefônica na Embratel por um ano, sendo posteriormente efetivado.
 
+<br/>
 
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gwolner&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
+</div>
+
+<br/>
 
 <div align="right">
  <a href="https://www.linkedin.com/in/guilherme-wolner/" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-0273b3?logo=linkedin&logoColor=white&style=plastic" alt="Linkedin">
  </a>
- &nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;
  <a href="https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos" target="_blank">
   <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=plastic" alt="Youtube">
  </a>
