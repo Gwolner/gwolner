@@ -31,10 +31,11 @@
   <img src="https://img.shields.io/badge/Linkedin-0273b3?logo=linkedin&logoColor=white&style=plastic" alt="Linkedin">
  </a>
  &nbsp;
- <a href="https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos" target="_blank">
+<!-- <a href="https://www.youtube.com/channel/UC06__eMGkONUkmH1U8keyUg/videos" target="_blank">
   <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=plastic" alt="Youtube">
  </a>
 </div>
+-->
 
 <!-- &nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/codepen.png" alt="Logo Codepen"/>](https://codepen.io/gwolner/pens/public)
