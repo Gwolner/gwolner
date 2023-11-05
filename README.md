@@ -41,7 +41,7 @@
 [<img src="https://raw.githubusercontent.com/Gwolner/gwolner/master/img/codepen.png" alt="Logo Codepen"/>](https://codepen.io/gwolner/pens/public)
 -->
 <br/><br/>
-
+<!--
 > Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já fiz uso em projetos anteriores
 
 <br/>
@@ -105,7 +105,7 @@
 ![JBoss AS](https://img.shields.io/badge/JBoss_AS-4A4A55?logo=coffeescript&logoColor=white&style=plastic)
 ![FireFox](https://img.shields.io/badge/FireFox-FF7139?logo=firefoxbrowser&logoColor=white&style=plastic)
 ![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?logo=googlechrome&logoColor=white&style=plastic)
-
+-->
 
 <!-- [![gwolner's github stats](https://github-readme-stats.vercel.app/api?username=gwolner)](https://github.com/anuraghazra/github-readme-stats) -->
  
