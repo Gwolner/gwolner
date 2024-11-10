@@ -8,8 +8,7 @@
 
 <br/>
 
-- 👨🏻‍💻 TCC em andamento (**Java, MySQL, Git/Github e framework Spring Boot**).
-- 👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas no IFPE.
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFPE (**Java, MySQL, Git/Github e framework Spring Boot**).
 - 👨🏻‍💻 Atuo como desenvolvedor CLT em back-end há mais de dois anos (**Java, JSF, JSP, Spring Boot, MySQL, Git/Gitlab, HTML, JS e CSS**).
 - 📚 Sigo aprendendo Java para web (back end) e framework Spring Boot.
 - 👨‍🏫 Fui monitor da disciplina Linguagem de Programação Orientada a Objeto (**Java**).
