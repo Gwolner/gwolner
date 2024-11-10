@@ -8,14 +8,14 @@
 
 <br/>
 
-- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFPE.
-- 👨🏻‍💻 Experiência como desenvolvedor há mais de 5 anos, com foco em back-end PHP, JavaEE e NodeJS.
-- 📚 Gosto de aprender continuamente, seja em cursos com certificados ou pelo Youtube.
-- 👨‍🏫 Fui monitor voluntário da disciplina Linguagem de Programação Orientada a Objeto.
-- 👨🏻‍💻 Estagiei no IFPE por dois anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial).
-- 🔬 Fui pesquisador em um [projeto de acessibilidade](https://github.com/Gwolner/pibex-hello-moodle) para web.
-- 🎓 Formações técnicas em Telecomunicações pelo IFPE e em Suporte em Informática pela ETEPAM.
-- ☎️ Fui estagiário de Comutação Telefônica na Embratel por um ano, sendo posteriormente efetivado como Técnico em Operações.
+👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFPE.<br/>
+👨🏻‍💻 Experiência como desenvolvedor há mais de 5 anos, com foco em back-end PHP, JavaEE e NodeJS.<br/>
+📚 Gosto de aprender continuamente, seja em cursos com certificados ou pelo Youtube.<br/>
+👨‍🏫 Fui monitor voluntário da disciplina Linguagem de Programação Orientada a Objeto.<br/>
+👨🏻‍💻 Estagiei no IFPE por dois anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial).<br/>
+🔬 Fui pesquisador em um [projeto de acessibilidade](https://github.com/Gwolner/pibex-hello-moodle) para web.<br/>
+🎓 Formações técnicas em Telecomunicações pelo IFPE e em Suporte em Informática pela ETEPAM.<br/>
+☎️ Fui estagiário de Comutação Telefônica na Embratel por um ano, sendo posteriormente efetivado como Técnico em Operações.
 
 <br/>
 <!--
