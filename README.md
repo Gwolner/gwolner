@@ -18,7 +18,7 @@
 - ☎️ Fui estagiário de Comutação Telefônica na Embratel por um ano, sendo posteriormente efetivado como Técnico em Operações.
 
 <br/>
-
+<!--
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gwolner&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
 </div>
