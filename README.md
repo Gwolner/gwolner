@@ -8,14 +8,14 @@
 
 <br/>
 
-- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFPE (**Java, MySQL, Git/Github e framework Spring Boot**).
-- 👨🏻‍💻 Atuo como desenvolvedor CLT em back-end há mais de dois anos (**Java, JSF, JSP, Spring Boot, MySQL, Git/Gitlab, HTML, JS e CSS**).
-- 📚 Sigo aprendendo Java para web (back end) e framework Spring Boot.
-- 👨‍🏫 Fui monitor da disciplina Linguagem de Programação Orientada a Objeto (**Java**).
-- 👨🏻‍💻 Estagiei no IFPE por dois anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial) (**PHP/Scriptcase, MySQL, HTML, JS, CSS**).
-- 🔬 Fui pesquisador em um [projeto de acessibilidade](https://github.com/Gwolner/pibex-hello-moodle) para web (**HTML, JS, Git/Github, CSS e PHP**).
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFPE.
+- 👨🏻‍💻 Experiência como desenvolvedor há mais de 5 anos, com foco em back-end PHP, JavaEE e NodeJS.
+- 📚 Gosto de aprender continuamente, seja em cursos com certificados ou pelo Youtube.
+- 👨‍🏫 Fui monitor voluntário da disciplina Linguagem de Programação Orientada a Objeto.
+- 👨🏻‍💻 Estagiei no IFPE por dois anos como [Desenvolvedor Web](https://github.com/Gwolner/csmo-ambulatorial).
+- 🔬 Fui pesquisador em um [projeto de acessibilidade](https://github.com/Gwolner/pibex-hello-moodle) para web.
 - 🎓 Formações técnicas em Telecomunicações pelo IFPE e em Suporte em Informática pela ETEPAM.
-- ☎️ Fui estagiário de Comutação Telefônica na Embratel por um ano, sendo posteriormente efetivado.
+- ☎️ Fui estagiário de Comutação Telefônica na Embratel por um ano, sendo posteriormente efetivado como Técnico em Operações.
 
 <br/>
 
