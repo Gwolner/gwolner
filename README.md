@@ -17,6 +17,8 @@
 🎓 Formações técnicas em Telecomunicações pelo IFPE e em Suporte em Informática pela ETEPAM.<br/>
 ☎️ Fui estagiário de Comutação Telefônica na Embratel por um ano, sendo posteriormente efetivado como Técnico em Operações.
 
+
+![GitHub stars](https://img.shields.io/github/stars/Gwolner/LinguagemC?style=social)
 <br/>
 <!--
 <div align="center">
